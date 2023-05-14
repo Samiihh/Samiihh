@@ -32,18 +32,7 @@
   <a href="https://www.linkedin.com/in/samira-vieira-de-souza-1b6996129" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-### Spotify Playing 🎧
 
-&nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-samira-vieira.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ab623oyeu3mh2b3ftpvifrisra)
-
-<div> 
-
-<div>
-&nbsp;<div align="center">
-  ![](https://hit.yhype.me/github/profile?user_id=101117402)
-<div> 
 
 
 
