@@ -6,10 +6,9 @@
 ##  <img height="20em" src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif"/> GitHub Analytcs
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samiihh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Samira Vieira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiihh&layout=compact&langs_count=16&theme=github_dark" />
-</div>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiihh&layout=compact&langs_count_weight=0.5&theme=github_dark" />
 
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Samy-PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
   .
   <img align="center" alt="Samy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
