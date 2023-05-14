@@ -1,7 +1,7 @@
 ## Olá!Eu sou a  Samira Vieira 😜
 
 - 🔭 Atualmente estou trabalhando como estagiária na aréa desenvolvimento
-- 🌱 Atualmente estou aprendendo javaScript e banco de dados 
+- 🌱 Estou aprendendo javaScript e banco de dados 
 
 ##  <img height="20em" src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif"/> GitHub Analytcs
 <div align="center">  
