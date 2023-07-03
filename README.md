@@ -1,7 +1,6 @@
 ## Olá!Eu sou a  Samira Vieira 😜
 
-- 🔭 Atualmente estou trabalhando como estagiária na aréa desenvolvimento
-- 🌱 Estou aprendendo javaScript e banco de dados 
+- 🔭 Como desenvolvedora de software, estou aprimorando minhas habilidades em PHP, JavaScript, SQL e frameworks como Laravel e Angula. Tenho um interesse genuíno pela arte da codificação e sou apaixonada por resolver desafios tanto no desenvolvimento front-end quanto no back-end. Tenho uma abordagem colaborativa e adoro trabalhar em equipe para criar soluções inovadoras e impactantes.
 
 ##  <img height="20em" src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif"/> GitHub Analytcs
 <div align="center">  
