@@ -4,7 +4,7 @@
 
 ##  <img height="20em" src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif"/> GitHub Analytcs
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samiihh&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Samira Vieira github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samiihh&show_icons=true&theme=transparent" alt="Samira Vieira github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiihh&layout=compact&langs_count_weight=0.5&theme=transparent" />
 
   <div style="display: inline_block"><br>
