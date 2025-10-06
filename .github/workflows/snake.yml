@@ -14,8 +14,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Samiihh
-          gif_path: output/snake.gif
-          svg_path: output/snake.svg
+          gif_out_path: output/snake.gif
+          svg_out_path: output/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
