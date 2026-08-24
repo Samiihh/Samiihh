@@ -43,9 +43,10 @@ Desenvolvedora de software apaixonada por transformar ideias em experiências di
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samiihh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Samira Vieira github stats"/>
-      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiihh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Samiihh&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Samiihh&layout=compact&langs_count=4&theme=transparent)
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiihh&theme=transparent" alt="Profile Details" />
 </div>
 
