@@ -28,10 +28,37 @@ Também atuo como **docente de tecnologia**, compartilhando conhecimento e ajuda
 
 <img src="assets/h-projetos.svg" width="100%" alt="03. projetos()" />
 
-| Projeto | Descrição | Tecnologias |
-|:--|:--|:--|
-| [Meu portfólio](https://portifolio-samiravieira.vercel.app/) | Site pessoal e projetos | Web |
-| [Meus repositórios](https://github.com/Samiihh?tab=repositories) | Confira os projetos públicos e estudos | React, Node.js, PHP e mais |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Samiihh?tab=repositories">
+        <img src="./assets/vennushair.svg"
+             alt="VennusHair" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Samiihh?tab=repositories">
+        <img src="./assets/finansync.svg"
+             alt="Finansync" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Samiihh/copa-do-amor-2026">
+        <img src="./assets/copa-do-amor-2026.svg"
+             alt="Copa do Amor 2026" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Samiihh?tab=repositories">
+        <img src="./assets/biblioteca-itinerante.svg"
+             alt="Biblioteca Itinerante" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <img src="assets/h-estatisticas.svg" width="100%" alt="04. estatisticas()" />
 <p align="center">
