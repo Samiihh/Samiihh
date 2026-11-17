@@ -41,6 +41,6 @@ Também atuo como **docente de tecnologia**, compartilhando conhecimento e ajuda
 <p align="center"><img src="https://streak-stats.demolab.com?user=Samiihh&locale=pt_BR&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=DCEAF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=91A4B8" alt="Sequência de contribuições" /></p>
 
 <img src="assets/h-contribuicoes.svg" width="100%" alt="05. contribuicoes()" />
-<p align="center"><img src="assets/contribuicoes-binario.svg" width="100%" alt="Contribuições reais compiladas em binário" /></p>
+<p align="center"><img src="assets/contribuicoes-binario.svg?v=2" width="100%" alt="Contribuições em binário" /></p>
 
 <p align="center"><img src="assets/rodape.svg" width="100%" alt="Obrigada pela visita" /></p>
