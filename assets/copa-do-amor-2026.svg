@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-label="Copa do Amor 2026 projeto React">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#10283c"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect x="1" y="1" width="758" height="298" rx="17" fill="url(#bg)" stroke="#27516a" stroke-width="2"/>
+<path d="M18 1H742Q759 1 759 18V49H1V18Q1 1 18 1" fill="#15283a"/>
+<circle cx="25" cy="25" r="6" fill="#fb7185"/><circle cx="47" cy="25" r="6" fill="#fbbf24"/><circle cx="69" cy="25" r="6" fill="#34d399"/>
+<text x="100" y="30" fill="#94a3b8" font-size="15" font-family="monospace">copa-do-amor-2026.tsx</text>
+<text x="32" y="90" fill="#22d3ee" font-family="monospace" font-size="15">$ open featured-project</text>
+<text x="32" y="133" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="30" font-weight="bold">Copa do Amor 2026</text>
+<text x="32" y="169" fill="#b6c8d8" font-family="Arial,sans-serif" font-size="17">Experiência digital interativa com temática de futebol</text>
+<text x="32" y="195" fill="#b6c8d8" font-family="Arial,sans-serif" font-size="17">para celebrar memórias e momentos especiais.</text>
+<rect x="32" y="221" width="86" height="31" rx="8" fill="#123e55"/><text x="75" y="242" fill="#67e8f9" font-size="15" text-anchor="middle" font-family="monospace">React</text>
+<rect x="128" y="221" width="130" height="31" rx="8" fill="#123e55"/><text x="193" y="242" fill="#67e8f9" font-size="15" text-anchor="middle" font-family="monospace">TypeScript</text>
+<rect x="268" y="221" width="140" height="31" rx="8" fill="#123e55"/><text x="338" y="242" fill="#67e8f9" font-size="15" text-anchor="middle" font-family="monospace">Tailwind CSS</text>
+<text x="32" y="279" fill="#64748b" font-family="monospace" font-size="13">github.com/Samiihh/copa-do-amor-2026</text>
+<path d="M659 112C636 90 604 125 659 164C714 125 682 90 659 112Z" fill="none" stroke="url(#accent)" stroke-width="5"/>
+</svg>
