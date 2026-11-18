@@ -61,11 +61,12 @@ Também atuo como **docente de tecnologia**, compartilhando conhecimento e ajuda
 
 
 <img src="assets/h-estatisticas.svg" width="100%" alt="04. estatisticas()" />
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samiihh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=DCEAF5&icon_color=22D3EE" alt="Estatísticas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiihh&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=DCEAF5" alt="Linguagens" />
-</p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=Samiihh&locale=pt_BR&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=DCEAF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=91A4B8" alt="Sequência de contribuições" /></p>
+<table>
+  <tr>
+    <td width="50%"><img src="assets/stats.svg" width="100%" alt="stats.sh — estatísticas reais do GitHub" /></td>
+    <td width="50%"><img src="assets/linguagens.svg" width="100%" alt="linguagens.json — linguagens públicas mais usadas" /></td>
+  </tr>
+</table>
 
 <img src="assets/h-contribuicoes.svg" width="100%" alt="05. contribuicoes()" />
 <p align="center"><img src="assets/contribuicoes-binario.svg?v=2" width="100%" alt="Contribuições em binário" /></p>

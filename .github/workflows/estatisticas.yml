@@ -1,0 +1,34 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 5 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-estatisticas
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gerar painéis com dados reais
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/estatisticas.py
+      - name: Validar SVGs
+        run: python -c "import xml.etree.ElementTree as E; E.parse('assets/stats.svg'); E.parse('assets/linguagens.svg')"
+      - name: Salvar painéis atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/linguagens.svg
+          git diff --cached --quiet || (git commit -m "Atualiza estatísticas do perfil" && git pull --rebase && git push)
