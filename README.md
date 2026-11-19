@@ -7,21 +7,25 @@
 </p>
 
 <img src="assets/h-sobre-mim.svg?v=3" width="100%" alt="01. sobre_mim()" />
-<img src="assets/editor.svg" width="46%" align="right" alt="Editor sobre_mim.ts" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=38BDF8&width=440&lines=%3E+Ol%C3%A1%2C+mundo!+Eu+sou+a+Samira;%3E+Full+Stack+Developer;%3E+Desenvolvedora+e+docente;%3E+git+commit+-m+%22evoluindo%22)](https://git.io/typing-svg)
-
-Sou **desenvolvedora Full Stack**, com atuação em aplicações web e mobile, do **React e Next.js** ao **Node.js e PHP**. Desde 2022, venho transformando ideias em soluções digitais, valorizando código limpo, boas práticas e trabalho em equipe.
-
-Também atuo como **docente de tecnologia**, compartilhando conhecimento e ajudando outras pessoas a dar seus primeiros passos na programação.
-
-```diff
-+ Construindo aplicações, APIs e experiências digitais
+<table>
+  <tr>
+    <td width="54%" valign="top">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;pause=1000&amp;color=38BDF8&amp;width=440&amp;lines=%3E+Ol%C3%A1%2C+mundo!+Eu+sou+a+Samira;%3E+Full+Stack+Developer;%3E+Desenvolvedora+e+docente;%3E+git+commit+-m+%22evoluindo%22" alt="Apresentação animada" />
+      </a>
+      <p>Sou <strong>desenvolvedora Full Stack</strong>, com atuação em aplicações web e mobile, do <strong>React e Next.js</strong> ao <strong>Node.js e PHP</strong>. Desde 2022, venho transformando ideias em soluções digitais, valorizando código limpo, boas práticas e trabalho em equipe.</p>
+      <p>Também atuo como <strong>docente de tecnologia</strong>, compartilhando conhecimento e ajudando outras pessoas a dar seus primeiros passos na programação.</p>
+      <pre><code>+ Construindo aplicações, APIs e experiências digitais
 + Compartilhando conhecimento e aprendendo sempre
 + Explorando novas tecnologias e boas práticas
-- Bugs em produção (seguimos trabalhando nisso!)
-```
-<br clear="right"/>
+- Bugs em produção (seguimos trabalhando nisso!)</code></pre>
+    </td>
+    <td width="46%" valign="top">
+      <img src="assets/editor.svg" width="100%" alt="Editor sobre_mim.ts" />
+    </td>
+  </tr>
+</table>
 
 <img src="assets/h-tecnologias.svg?v=3" width="100%" alt="02. tecnologias()" />
 <p align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,php,html,css,tailwind,mysql,mongodb,flutter,dart,docker,git,github,figma,vscode&perline=10&theme=dark" alt="Tecnologias" /></p>
